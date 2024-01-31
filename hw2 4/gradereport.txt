@@ -1,0 +1,9 @@
+     Student Information Report     
+
+
+Name            Student #  Percent
+------------------------------------
+Doe, Jane            30        71.4
+Jones, Tom           40        95.2
+Kidd, Billy          35        83.3
+Smith, Sally         35        83.3

@@ -1,0 +1,9 @@
+     Student Information Report     
+
+
+Name            Student #  Percent
+------------------------------------
+doe_jane             30       750.0
+jones_tom            40      1000.0
+kidd_billy           35       875.0
+smith_sally          35       875.0
